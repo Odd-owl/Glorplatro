@@ -2,7 +2,7 @@
 	"id": "glorp",
 	"name": "Glorplatro",
 	"author": ["odd_owl722"],
-	"description": "Adds glorp to balatro by reskinning and renaming various jokers I like and/or thought would be cool as glorps. \n Not compatible with Malverk.",
+	"description": "Adds glorp to balatro by reskinning and renaming various jokers I like and/or thought would be cool as glorps. Requires malverk",
 	"prefix": "glorp",
 	"main_file": "glorp.lua",
 	"priority": 0,
@@ -13,7 +13,7 @@
 	"dependencies": [
 		"Steamodded (*)", 
 		"Lovely (*)",
-		"Balatro (>=1.0.1m)"],
+		"malverk"],
 	"conflicts": [
 	],
 	"provides": [
