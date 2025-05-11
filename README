@@ -1,3 +1,5 @@
+You can download the full code as zip file and unzip it into your mods folder, requires steammodded and lovely as usual.
+
 The reskins work by taking ownership of jokers, so if you get any conflictions with other mods you can go to glorp.lua and comment/delete the lines with those respective jokers to disable them.
 
 It also crashes when opening the malverk menu before this mod overrides the default joker, which malverk uses as icon for the basegame textures. You can disable the default joker, but I think it still messes up the textures when you have any malverk pack with this mod. 
