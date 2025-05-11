@@ -1,0 +1,21 @@
+{
+	"id": "glorp",
+	"name": "Glorplatro",
+	"author": ["odd_owl722"],
+	"description": "Adds glorp to balatro",
+	"prefix": "glorp",
+	"main_file": "main.lua",
+	"priority": 0,
+	"badge_colour": "48e00c",
+	"badge_text_colour": "FCFCFC",
+	"display_name": "Glorplatro",
+	"version": "1.0.0",
+	"dependencies": [
+		"Steamodded (*)", 
+		"Lovely (*)",
+		"Balatro (>=1.0.1m)"],
+	"conflicts": [
+	],
+	"provides": [
+	]
+}
