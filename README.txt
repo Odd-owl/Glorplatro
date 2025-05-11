@@ -1,5 +1,6 @@
 A balatro texture pack that changes some jokers to be glorp (and some extras).
 
+Download the full zip file using the green code button and put it in your mods folder. 
 requires Lovely, steammodded and malverk, and can then be enabled through the malverk textures menu.
 
 I might add more reskins and possibly fully custom effects eventually. 
