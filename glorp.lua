@@ -70,6 +70,3 @@ if SMODS.current_mod then
 else
     init()
 end
-
-
---SMODS.Joker:take_ownership('lucky_cat', {atlas = 'Glorps', pos = {x = 5, y = 0}})
