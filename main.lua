@@ -10,6 +10,8 @@ SMODS.Joker:take_ownership('wee', {atlas = 'Glorps', pos = {x = 0, y = 0}})
 SMODS.Joker:take_ownership('blueprint', {atlas = 'Glorps', pos = {x = 1, y = 0}})
 SMODS.Joker:take_ownership('abstract', {atlas = 'Glorps', pos = {x = 2, y = 0}})
 SMODS.Joker:take_ownership('brainstorm', {atlas = 'Glorps', pos = {x = 3, y = 0}})
+SMODS.Joker:take_ownership('green_joker', {atlas = 'Glorps', pos = {x = 4, y = 0}})
+
 
 SMODS.Joker:take_ownership('golden', {atlas = 'Glorps', pos = {x = 0, y = 1}})
 SMODS.Joker:take_ownership('glass', {atlas = 'Glorps', pos = {x = 1, y = 1}})
@@ -40,6 +42,7 @@ local function init()
     G.localization.descriptions.Joker["j_blueprint"].name = {"Glorpprint"}
     G.localization.descriptions.Joker["j_abstract"].name = {"Abstract glorp"}
     G.localization.descriptions.Joker["j_brainstorm"].name = {"Glorpstorm"}
+    G.localization.descriptions.Joker["j_green_joker"].name = {"Extra green glorp"}
     G.localization.descriptions.Joker["j_golden"].name = {"Golden glorp"}
     G.localization.descriptions.Joker["j_glass"].name = {"Glass glorp"}
     G.localization.descriptions.Joker["j_faceless"].name = {"Faceless glorp"}
@@ -53,6 +56,13 @@ local function init()
     G.localization.descriptions.Joker["j_burnt"].name = {"Burnt glorp"}
     G.localization.descriptions.Joker["j_constellation"].name = {"Glorpstellation"}
     G.localization.descriptions.Joker["j_hologram"].name = {"Hologlorp"}
+    G.localization.descriptions.Joker["j_caino"].name = {"GlorpGun"}
+    G.localization.descriptions.Joker["j_triboulet"].name = {"GlorpTrans"}
+    G.localization.descriptions.Joker["j_yorick"].name = {"Ta"}
+    G.localization.descriptions.Joker["j_chicot"].name = {"Nolorp"}
+    G.localization.descriptions.Joker["j_perkeo"].name = {"Gaylorp"}
+
+
 end
 
 if SMODS.current_mod then
@@ -60,3 +70,6 @@ if SMODS.current_mod then
 else
     init()
 end
+
+
+--SMODS.Joker:take_ownership('lucky_cat', {atlas = 'Glorps', pos = {x = 5, y = 0}})
