@@ -53,7 +53,7 @@ AltTexture {
         j_glass = {name = "Glass glorp"},
         j_faceless = {name = "Faceless glorp"},
         j_invisible = {name = "Invisible glorp"},
-        j_card_shard = {name = "Glorp sharp"},
+        j_card_sharp = {name = "Glorp sharp"},
         j_hanging_chad = {name = "Glorp chad"},
         j_photograph = {name = "Photoglorp"},
         j_baron = {name = "Glaron"},
